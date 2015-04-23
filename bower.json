@@ -3,6 +3,6 @@
     "version": "1.3.8",
     "main": "hand.js",
     "dependencies": {
-        "foundation": "5.4.7"
+       
      }
 }
