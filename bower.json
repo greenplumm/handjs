@@ -1,7 +1,7 @@
 {
     "name": "handjs",
     "version": "1.3.8",
-    "main": "handjs.js",
+    "main": "hand.js",
     "dependencies": {
       
     }
